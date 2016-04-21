@@ -6,7 +6,7 @@ This is a simple automated build for Angular 2 applications, using Gulp and gulp
 
 
 ___IMPORTANT!___
-__The INDEX.HTML file must not have any embedded script content, only external files.
+__The INDEX.HTML file must not have any embedded script content, only external files.__
 
 ### Considerations and future
 
